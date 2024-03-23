@@ -1,0 +1,103 @@
+.post{
+    height: 50px;
+    width: auto;
+}
+.post-header{
+    height: 70px;
+    width: auto;
+}
+.insta{
+    height: 100px;
+    width: auto;
+    float: left;
+}
+div.settings{
+    margin: -65px auto;
+    height: 25px;
+    text-align: center;
+    padding: 8px 20px;
+    width: auto;
+    float: right;
+}
+.title {
+    float: left;
+    height: 50px;
+    width: 1000px;
+    padding: 5px 5px;
+    margin: 5px;
+    text-align: left;
+    line-height: 0.2;
+}
+div.cascada{
+    margin: 50px auto;
+    background-color: darkgrey;
+}
+div.foto{
+    padding: auto;
+    height: 1080px;
+    width: 600px;
+    border-style: solid;
+    margin: 25px auto;
+    border-width: thin;
+    border-color: white;
+    background-color: white;
+}
+div.encabezado{
+    height: 30px;
+    width: 600px;
+}
+div.cascada img{
+    width: 100%;
+    height: auto;
+}
+.like{
+    height: 50px;
+    width: 30px;
+    float: left;
+    padding: 5px 5px;
+    margin: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+.likes{
+    margin: -10px 5px;
+    
+}
+.cantidad{
+    text-align: left;
+    font-size: 13px;
+}
+.coment{
+    height: 50px;
+    width: 30px;
+    float: left;
+    padding: 5px 5px;
+    margin: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+.send{
+    height: 50px;
+    width: 35px;
+    float: left;
+    padding: 5px 5px;
+    margin: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+.save{
+    float: right;
+    height: 50px;
+    width: 290px;
+    padding: 5px 5px;
+    margin: 5px;
+    font-size: 30px;
+    text-align: right;
+}
+div.buttons{
+    text-align: center;
+    padding: 8px 20px;
+    height: 20px;
+    width: auto;
+    border: 1px solid transparent;
+}

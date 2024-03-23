@@ -1,0 +1,54 @@
+.post{
+    height: 50px;
+    width: auto;
+}
+.post-header{
+    height: 70px;
+    width: auto;
+}
+.insta{
+    height: 100px;
+    width: auto;
+    float: left;
+}
+div.settings{
+    margin: -65px auto;
+    height: 25px;
+    text-align: center;
+    padding: 8px 20px;
+    width: auto;
+    float: right;
+}
+
+.title {
+    float: left;
+    height: 50px;
+    width: 1000px;
+    padding: 5px 5px;
+    margin: 5px;
+    text-align: left;
+    line-height: 0.2;
+}
+div.row{
+    margin: 50px auto;
+    background-color: darkgrey;
+}
+div.row img{
+    width: 100%;
+    height: center;
+    margin: 5px;
+    border-color: white;
+    background-color: white;
+}
+div.encabezado{
+    height: 30px;
+    width: 600px;
+}
+div.buttons{
+    margin: auto;
+    text-align: center;
+    padding: 8px 20px;
+    height: 40px;
+    width: 2000px;
+    border: 1px solid transparent;
+}
