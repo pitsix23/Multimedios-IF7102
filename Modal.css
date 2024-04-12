@@ -1,0 +1,15 @@
+.modal{
+    float: left;
+    text-align: center;
+    color: black;
+}
+
+.modal-content{
+    color: bisque;
+    background-color: gray;
+    border-color: azure;
+
+}
+.text{
+    text-align: left;
+}
